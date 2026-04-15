@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shuhel 👋  <br><br>I don't just learn — I build.  <br><br>💻 React | Node.js | Express | Firebase  <br>🤖 Building projects using my knowledge + AI tools  <br>📚 Focused on improving backend & real-world problem solving  
+Hi, I'm Shuhel 👋  <br><br>I don't just learn — I build.  <br><br>💻 React | Node.js | Express | Firebase | n8n  <br>🤖 Building projects using my knowledge + AI tools  <br>📚 Focused on improving backend & real-world problem solving  
 
 
 ## 🌐 Socials:

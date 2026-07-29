@@ -52,18 +52,23 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" style="background-color:white;border-radius:8px;padding:4px;" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" alt="shadcn/ui" width="40" />&nbsp;&nbsp;&nbsp;
 
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" style="background-color:white;border-radius:8px;padding:4px;" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" width="40" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth" />
 
 </p>
 
@@ -72,12 +77,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma" width="40" />&nbsp;&nbsp;&nbsp;
 
+</p>
+
+<h3 align="center">AI & GenAI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Generative AI" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/FFFFFF" alt="Render" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="40" />
 
 </p>
 
@@ -88,6 +106,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+  <img src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer Motion" width="40" />
 
 </p>
 

@@ -46,6 +46,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
 ## 🔗 Languages and Tools
 
 <h3 align="center">Frontend</h3>

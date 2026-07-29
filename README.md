@@ -13,39 +13,40 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hey! I’m a passionate Full-Stack Developer and B.Tech Computer Science student who loves turning ideas into real-world applications. I enjoy building clean, user-friendly web experiences and exploring modern technologies like Next.js, React, TypeScript, Node.js, PostgreSQL, and AI.
-- I’m always curious to learn something new, improve my skills, and build projects that solve real problems. Outside of coding, I’m basically just another developer trying to figure out why the code worked perfectly yesterday. 😄
 
+* Hey! I’m a passionate Full-Stack Developer and B.Tech Computer Science student who loves turning ideas into real-world applications. I enjoy building clean, user-friendly web experiences and exploring modern technologies like Next.js, React, TypeScript, Node.js, PostgreSQL, and AI.
+* I’m always curious to learn something new, improve my skills, and build projects that solve real problems. Outside of coding, I’m basically just another developer trying to figure out why the code worked perfectly yesterday. 😄
 
 ## 🧠 My Focus Areas
-- 💻 Full-Stack Web Development
-- ⚛️ React & Next.js
-- 🤖 Generative AI & RAG
-- 🧠 AI-Powered Applications
-- 🗄️ Backend & Database Development
-- 🎨 UI/UX & Responsive Design
-- 🚀 Real-World Project Development
-- 📚 Continuous Learning & Problem Solving
 
+* 💻 Full-Stack Web Development
+* ⚛️ React & Next.js
+* 🤖 Generative AI & RAG
+* 🧠 AI-Powered Applications
+* 🗄️ Backend & Database Development
+* 🎨 UI/UX & Responsive Design
+* 🚀 Real-World Project Development
+* 📚 Continuous Learning & Problem Solving
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/Shuhel15">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Shuhel15's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400" alt="Shuhel15's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10" alt="Shuhel15's Activity Graph" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" style="background-color:white;border-radius:8px;padding:4px;" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
@@ -56,7 +57,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" style="background-color:white;border-radius:8px;padding:4px;" />
 
 </p>
 
@@ -91,6 +92,7 @@
 </p>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shuhel-ahmed-ba47332a5/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -117,10 +119,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 </p>
 
-<!-- 🐍 Contribution snake — animates your commit graph eating itself. Needs the one-time Action setup below. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shuhel15/Shuhel15/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
-</p>
+<div align="center">
+
+### 💡 Always Building, Always Learning.
+
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />

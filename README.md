@@ -30,9 +30,7 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<p align="center">
+<div align="center" style="margin: 0; padding: 0;">
   <a href="https://github.com/Shuhel15">
     <img
       height="180em"
@@ -40,25 +38,25 @@
       alt="Shuhel15's GitHub Stats"
     />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin: 0; padding: 0;">
   <img
     src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400"
     alt="Shuhel15's GitHub Streak"
-    width="100%"
+    width="80%"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin: 0; padding: 0;">
   <img
     height="280em"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10"
     alt="Shuhel15's Activity Graph"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin: 0; padding: 0;">
   <a href="https://github.com/Shuhel15">
     <img
       height="180em"
@@ -66,7 +64,7 @@
       alt="Top Languages"
     />
   </a>
-</p>
+</div>
 
 ## 🔗 Languages and Tools
 

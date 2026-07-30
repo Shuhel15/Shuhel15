@@ -30,40 +30,20 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="margin: 0; padding: 0;">
-  <a href="https://github.com/Shuhel15">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
-      alt="Shuhel15's GitHub Stats"
-    />
-  </a>
-</div>
+<div align="center">
 
-<div align="center" style="margin: 0; padding: 0;">
-  <img
-    src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Shuhel15's GitHub Streak"
-    width="80%"
-  />
-</div>
+<a href="https://github.com/Shuhel15">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" />
+</a>
 
-<div align="center" style="margin: 0; padding: 0;">
-  <img
-    height="280em"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10"
-    alt="Shuhel15's Activity Graph"
-  />
-</div>
+<img src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400" width="90%" />
 
-<div align="center" style="margin: 0; padding: 0;">
-  <a href="https://github.com/Shuhel15">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10"
-      alt="Top Languages"
-    />
-  </a>
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10" />
+
+<a href="https://github.com/Shuhel15">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10" />
+</a>
+
 </div>
 
 ## 🔗 Languages and Tools

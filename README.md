@@ -28,40 +28,6 @@
 * 🚀 Real-World Project Development
 * 📚 Continuous Learning & Problem Solving
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
-    alt="GitHub Stats"
-    width="650"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="GitHub Streak"
-    width="650"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10"
-    alt="Activity Graph"
-    width="650"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10"
-    alt="Top Languages"
-    width="650"
-  />
-</p>
-
 ## 🔗 Languages and Tools
 
 <h3 align="center">Frontend</h3>
@@ -123,6 +89,40 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
   <img src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer Motion" width="40" />
 
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+    alt="GitHub Stats"
+    width="650"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak"
+    width="650"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10"
+    alt="Activity Graph"
+    width="650"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10"
+    alt="Top Languages"
+    width="650"
+  />
 </p>
 
 ## 🔗 Connect with Me

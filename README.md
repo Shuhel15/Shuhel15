@@ -30,21 +30,37 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+    alt="GitHub Stats"
+    width="650"
+  />
+</p>
 
-<a href="https://github.com/Shuhel15">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" />
-</a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak"
+    width="650"
+  />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400" width="90%" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10"
+    alt="Activity Graph"
+    width="650"
+  />
+</p>
 
-<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Shuhel15&theme=radical&radius=10" />
-
-<a href="https://github.com/Shuhel15">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10" />
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuhel15&langs_count=8&layout=compact&theme=radical&border_radius=10"
+    alt="Top Languages"
+    width="650"
+  />
+</p>
 
 ## 🔗 Languages and Tools
 

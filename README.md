@@ -92,15 +92,6 @@
 </p>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuhel15&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
-    alt="GitHub Stats"
-    width="650"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Shuhel15&theme=radical&hide_border=true&cache_seconds=86400"
